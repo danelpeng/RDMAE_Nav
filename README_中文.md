@@ -4,7 +4,7 @@
 
 # 整体结构
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/overall.png)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/overall.png)
 
 
 
@@ -126,13 +126,13 @@ bash viz.sh
 
 **第一视角动图**
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/video_example.gif)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/video_example.gif)
 
 **top-down轨迹**
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/scene_viz.png)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/scene_viz.png)
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/coor_viz.png)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/coor_viz.png)
 
 
 
