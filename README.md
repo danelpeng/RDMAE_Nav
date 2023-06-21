@@ -4,7 +4,7 @@
 
 ## Overall
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/overall.png)
+![](https://github.com/dniwsac/RDMAE_Nav/tree/master/assets/overall.png)
 
 
 
