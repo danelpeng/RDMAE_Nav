@@ -126,13 +126,13 @@ The visualization results are saved in the tensorboard file in "storage/robothor
 
 **egocentric navigation**
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/video_example.gif)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/video_example.gif)
 
 **top-down trajectory**
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/scene_viz.png)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/scene_viz.png)
 
-![](/home/pengjie/projects/RDMAE_Nav/assets/coor_viz.png)
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/coor_viz.png)
 
 
 
