@@ -150,7 +150,7 @@ bash viz.sh
 
 # 其他
 
-本项目由[Daniel Peng](https://github.com/dniwsac)完成
+本项目由[Daniel Peng](https://github.com/danelpeng)完成
 
 
 
