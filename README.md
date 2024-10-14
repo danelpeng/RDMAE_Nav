@@ -4,6 +4,10 @@
 
 ## Overall
 
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/rdmae.png)
+
+
+
 ![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/overall.png)
 
 
@@ -101,6 +105,10 @@ bash test.sh
 
 Tests for clean and visual corruptions. Results are saved in "storage/robothor-pointnav-rgb-rdmae-ddppo-eval".
 
+
+
+## Pretrain Visualization
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/viz.png)
 
 
 ## Visualization
