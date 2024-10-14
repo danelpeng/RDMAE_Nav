@@ -150,7 +150,7 @@ This project has heavily referenced code from [robustnav](https://github.com/all
 
 ## Others
 
-This project was completed by [Daniel Peng](https://github.com/dniwsac).
+This project was completed by [Daniel Peng](https://github.com/danelpeng).
 
 
 
