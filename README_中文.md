@@ -4,6 +4,9 @@
 
 # 整体结构
 
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/rdmae.png)
+
+
 ![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/overall.png)
 
 
@@ -102,6 +105,9 @@ bash test.sh
 测试包含clean和其余7项视觉扰动的测试，测试结果保存在"storage/robothor-pointnav-rgb-rdmae-ddppo-eval"中
 
 
+# 预训练可视化
+
+![](https://github.com/dniwsac/RDMAE_Nav/blob/master/assets/viz.png)
 
 # 可视化
 
