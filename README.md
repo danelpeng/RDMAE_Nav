@@ -1,4 +1,4 @@
-# [Regularized Denoising Masked Visual Pretraining for Robust Embodied PointGoal Navigation]
+# Regularized Denoising Masked Visual Pretraining for Robust Embodied PointGoal Navigation
 
 
 
