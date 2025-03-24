@@ -1,4 +1,4 @@
-# [Regularized Denoising Masked Visual Pretraining for Robust Embodied PointGoal Navigation](https://www.mdpi.com/1424-8220/23/7/3553)
+# Regularized Denoising Masked Visual Pretraining for Robust Embodied PointGoal Navigation
 
 
 
@@ -157,29 +157,3 @@ bash viz.sh
 # 其他
 
 本项目由[Daniel Peng](https://github.com/danelpeng)完成
-
-
-
-# 引用
-
-如果您觉得此项目对您有帮助，请考虑引用文章：
-
-```
-@article{peng2023regularized,
-  title={Regularized Denoising Masked Visual Pretraining for Robust Embodied PointGoal Navigation},
-  author={Peng, Jie and Xu, Yangbin and Luo, Luqing and Liu, Haiyang and Lu, Kaiqiang and Liu, Jian},
-  journal={Sensors},
-  volume={23},
-  number={7},
-  pages={3553},
-  year={2023},
-  publisher={MDPI}
-}
-```
-
-
-
-
-
-
-
